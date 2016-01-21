@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Liftoff
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the beginning of my first blog post, written on the end of my second day at Metis.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Thus far I've felt inspired, intimidated, confused, and constructive, all in various combinations at different times. I look forward to sharing things I work on with my rapidly growing audience. 
