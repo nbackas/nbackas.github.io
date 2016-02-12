@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Entering Week 4 of Metis
